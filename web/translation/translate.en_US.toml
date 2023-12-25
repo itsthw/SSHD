@@ -50,7 +50,7 @@
 "link" = "Other"
 
 [pages.login]
-"title" = "X-UI ENGLISH LOGIN"
+"title" = "ITSTHW9"
 "loginAgain" = "The login session has expired, please log in again"
 
 [pages.login.toasts]
